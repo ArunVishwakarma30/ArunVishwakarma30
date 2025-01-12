@@ -4,11 +4,11 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunvishwakarma30&label=Profile%20views&color=0e75b6&style=flat" alt="arunvishwakarma30" /> </p>
 
-- 🔭 I’m currently working on **Easy Ride**
+- 🔭 I’m currently working on **Uponly Pro** download from -> https://play.google.com/store/apps/details?id=com.uponlytech.pro&pcampaignid=web_share 
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter Bloc**
 
-- 💬 Ask me about **Java, JavaScript, C++**
+- 💬 Ask me about **Flutter, Java, JavaScript, C++**
 
 - 📫 How to reach me **arunvishwakarma3009@gmail.com**
 
